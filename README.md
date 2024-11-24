@@ -2,11 +2,11 @@
 
 [中文文档](./README.zh-CN.md)
 
-Best Indie Dev Tools Navigator
+Best Indie Hacker Tools Navigator
 
-Your indie dev compass for tools discovery and faster shipping
+Your indie hacker compass for tools discovery and faster shipping
 
-Carefully selected commonly used independent development tools
+Carefully selected commonly used indie hacker tools
 
 Website: [indiehackertool.com](https://www.indiehackertool.com/)
 
