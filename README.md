@@ -1,6 +1,7 @@
 # IndieHackerTool Documentation
 
 Best Indie Dev Tools Navigator
+
 Your indie dev compass for tools discovery and faster shipping
 
 Website: https://www.indiehackertool.com
