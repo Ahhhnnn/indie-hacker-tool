@@ -1,5 +1,7 @@
 # 独立开发者常用工具导航
 
+[English Docs](./README.md)
+
 最佳独立开发者工具导航
 
 您的独立开发工具发现指南，助您更快地开发产品
@@ -7,8 +9,6 @@
 精心挑选的常用独立开发工具集合
 
 网站地址：[indiehackertool.com](https://www.indiehackertool.com/)
-
-[English](./README.md)
 
 ![IndieHackerTool Logo](https://raw.githubusercontent.com/Ahhhnnn/indie-hacker-tool/refs/heads/main/scr/public/img/Home.png)
 
